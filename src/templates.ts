@@ -77,7 +77,7 @@ function generateZirconiaSection(data: CaseData): string {
               <div style="display: flex; align-items: center;"><input type="checkbox" id="xtml" /> <label for="xtml">XTML</label></div>
             </div>
             <div style="flex: 1;">
-              <div style="display: flex; align-items: center;"><input type="checkbox" id="html" /> <label for="html">HTML</label></div>
+              <div style="display: flex; align-items: center;"><input type="checkbox" id="aevra" /> <label for="aevra">Aevra</label></div>
               <div style="display: flex; align-items: center;"><input type="checkbox" id="prime" /> <label for="prime">Prime</label></div>
               <div style="display: flex; align-items: center;"><input type="checkbox" id="prime_a" /> <label for="prime_a">Prime E</label></div>
             </div>
