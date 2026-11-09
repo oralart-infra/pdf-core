@@ -7,7 +7,7 @@ Scope: `/Users/jonathan/Developer/pdf-core`.
 Local consumers of `@oralart/pdf-core`:
 
 - [Raycast LMS](/Users/jonathan/Developer/lms/raycast_lms)
-- [LMS Svelte userscript](/Users/jonathan/Developer/tampermonkey/lms-svelte)
+- [LMS Svelte userscript](/Users/jonathan/Developer/userscripts/lms-svelte)
 - [iOS LMS](/Users/jonathan/Developer/lms/ios_lms)
 
 ## Release Workflow
